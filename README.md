@@ -1,0 +1,2 @@
+# fcqu
+no smart
